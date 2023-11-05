@@ -1,0 +1,4 @@
+# Ignore all files named .secrets
+.secrets
+google-sheets-bot-auth.json
+*.pyc
